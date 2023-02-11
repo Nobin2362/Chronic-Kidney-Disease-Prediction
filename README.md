@@ -1,1 +1,1 @@
-# Kidney-Disease-Recognition
+# Kidney-Disease-Prediction
